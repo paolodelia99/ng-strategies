@@ -13,3 +13,5 @@ results
 *.pkl
 
 *.h5
+
+*.html
