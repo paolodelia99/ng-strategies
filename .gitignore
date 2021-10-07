@@ -2,7 +2,9 @@
 
 tests
 
-data
+data/*.xlsx
+data/*.csv
+data/*.h5
 
 venv
 
