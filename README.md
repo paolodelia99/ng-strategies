@@ -10,7 +10,9 @@
 
 - ### Machine Learning based strategy
   - [Random Forest Tree Regressor](./ml_based_strategies/tree_regressor.ipynb)
-
+  - [Univariate Forecasting with an LSTM](./ml_based_strategies/NG_univ_forecast_RNN.ipynb)
+  - [Forecasting with a TCN](./ml_based_strategies/TCN_NG_forecast.ipynb)
+  
 # Data sources
 
 - [NG futures data](https://www.nasdaq.com/market-activity/commodities/ng%3anmx/historical)
